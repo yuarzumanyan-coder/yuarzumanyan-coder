@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write  # այս տողը թույլ է տալիս push
+
 on:
   workflow_dispatch:
   schedule:
