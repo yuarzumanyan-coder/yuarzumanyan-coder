@@ -1,13 +1,13 @@
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+a+Data+Analyst;Turning+data+into+insights;SQL+%7C+Python+%7C+Data+Visualization" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+a+Data+Analyst;Turning+data+into+insights;SQL+%7C+Python+%7C+Data+Visualization" />
 </p>
 
 ---
 
 ## 👋 About Me
-📊 I am a **Data Analyst** passionate about analyzing data, discovering patterns, and transforming raw datasets into meaningful insights.  
-I enjoy building dashboards, performing exploratory data analysis, and supporting data-driven decision making.
+📊 I am a **Data Analyst** passionate about transforming raw data into meaningful insights.  
+I enjoy working with real-world datasets, performing exploratory data analysis, and building dashboards that support data-driven decisions.
 
 ---
 
@@ -37,13 +37,13 @@ I enjoy building dashboards, performing exploratory data analysis, and supportin
 ---
 
 ## 🚀 Projects
-📁 In my repositories you will find:
+📁 My repositories include:
 - Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Data visualization & dashboards  
-- Business insights and conclusions  
+- Business-focused insights  
 
-Each project is well-documented and focused on real-world datasets.
+Each project is well documented and based on real datasets.
 
 ---
 
@@ -60,7 +60,7 @@ Each project is well-documented and focused on real-world datasets.
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/yuarzumanyan-coder/yuarzumanyan-coder/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
