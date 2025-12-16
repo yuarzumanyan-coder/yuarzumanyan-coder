@@ -105,10 +105,10 @@ Here are some highlights of my work. For a complete list, please visit my [repos
 I'm always open to discussing data, new technologies, and potential opportunities.
 
 <p align="center">
-  <a href="[Your LinkedIn URL Here]">
+  <a href="www.linkedin.com/in/yuri-arzumanyan-244793398">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[Your Email Here]">
+  <a href="mailto:yuarzumanyan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="[Your Tableau Public URL Here (Optional)]">
