@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 I'm a Data Analyst
 
-<!--
-**yuarzumanyan-coder/yuarzumanyan-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Passionate Data Analyst with a strong interest in transforming raw data into meaningful insights.  
+I enjoy working with data to uncover patterns, create visual stories, and support data-driven decision making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills & Tools
+
+### 📌 Data Analysis & Programming
+- Python (NumPy, Pandas)
+- SQL
+
+### 📊 Data Visualization
+- Matplotlib
+- Seaborn
+- Tableau
+- Power BI
+
+### 📈 Spreadsheets & Reporting
+- Excel (Pivot Tables, Dashboards, Advanced Functions)
+
+---
+
+## 🚀 Projects
+Here you will find a collection of my data analysis projects, including:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization and dashboards
+- Insights and business-oriented conclusions
+
+Each project includes clear explanations and documented results.
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: *(add your link here)*
+- Email: *(add your email here)*
+
+Thanks for visiting my profile! 😊
