@@ -1,34 +1,40 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+a+Data+Analyst;Turning+data+into+insights;SQL+%7C+Python+%7C+Data+Visualization" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+a+Data+Analyst;Turning+data+into+insights;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI" />
 </p>
 
 ---
 
 ## 👋 About Me
-📊 I am a **Data Analyst** passionate about transforming raw data into meaningful insights.  
+<p align="center">
+📊 I am a <b>Data Analyst</b> passionate about transforming raw data into meaningful insights.  
 I enjoy working with real-world datasets, performing exploratory data analysis, and building dashboards that support data-driven decisions.
+</p>
+
+<p align="center">
+💡 <i>"Data tells stories; I help uncover them."</i>
+</p>
 
 ---
 
-## 🧰 Skills & Tools
+## 🛠️ Skills & Tools
 
 ### 📌 Data Analysis & Programming
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 📊 Libraries & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
 ### 📈 BI & Reporting Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -37,13 +43,17 @@ I enjoy working with real-world datasets, performing exploratory data analysis, 
 ---
 
 ## 🚀 Projects
-📁 My repositories include:
-- Data cleaning & preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data visualization & dashboards  
-- Business-focused insights  
+<p align="center">
+  <img src="https://via.placeholder.com/300x180.png?text=Project+1" width="300"/>
+  <img src="https://via.placeholder.com/300x180.png?text=Project+2" width="300"/>
+  <img src="https://via.placeholder.com/300x180.png?text=Project+3" width="300"/>
+</p>
 
-Each project is well documented and based on real datasets.
+- **Project 1:** Data Cleaning & Dashboard  
+- **Project 2:** Exploratory Data Analysis (EDA)  
+- **Project 3:** Data Visualization & Insights  
+
+> *(Replace placeholder images with screenshots or GIFs of your actual projects)*
 
 ---
 
@@ -53,21 +63,35 @@ Each project is well documented and based on real datasets.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuarzumanyan-coder/yuarzumanyan-coder/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/yuarzumanyan-coder/yuarzumanyan-coder/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yuarzumanyan-coder/yuarzumanyan-coder/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/yuarzumanyan-coder/count.svg" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINK/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ Thanks for visiting my profile!  
