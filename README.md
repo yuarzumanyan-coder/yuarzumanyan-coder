@@ -124,9 +124,6 @@ I'm always open to discussing data, new technologies, and potential opportunitie
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuarzumanyan-coder&label=Profile%20Views&labelColor=%232a9d8f&countColor=%23263759" alt="Profile Visitor Badge"/>
 </p>
 
-3.  **Visitor Badge:** The visitor counter at the bottom updates automatically using the [visitorbadge.io](https://visitorbadge.io) service.
-4.  **Replace Placeholders:** Don't forget to replace the placeholder links (`[Your ... Here]`) with your actual LinkedIn profile, email, and Tableau Public URL.
-
 <h3 align="center">
   Thanks for visiting! Feel free to explore my repositories. 🚀
 </h3>
