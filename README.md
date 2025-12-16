@@ -53,8 +53,9 @@ Each project is well documented and based on real datasets.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuarzumanyan-coder&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/yuarzumanyan-coder/yuarzumanyan-coder/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
