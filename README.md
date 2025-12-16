@@ -76,16 +76,9 @@ Here are some highlights of my work. For a complete list, please visit my [repos
 <div align="center">
 <!-- Dynamic Stats Cards: Choose ONE of the two options below -->
 
-<!-- Option 1: Single Card with Transparent Theme (works for light/dark mode) -->
-<a href="https://github.com/yuarzumanyan-coder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuarzumanyan-coder&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=00000000&title_color=2A9D8F&icon_color=264653&text_color=333333" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/yuarzumanyan-coder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=00000000&title_color=2A9D8F&text_color=333333" alt="Top Languages" />
-</a>
 
 <!-- Option 2: Cards that automatically switch for GitHub Dark/Light Mode (More advanced) -->
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuarzumanyan-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuarzumanyan-coder&show_icons=true&theme=default&hide_border=true&count_private=true">
@@ -96,7 +89,7 @@ Here are some highlights of my work. For a complete list, please visit my [repos
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=default&hide_border=true&langs_count=8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=default&hide_border=true" alt="Top Languages">
 </picture>
--->
+
 
 </div>
 
@@ -131,37 +124,6 @@ I'm always open to discussing data, new technologies, and potential opportunitie
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuarzumanyan-coder&label=Profile%20Views&labelColor=%232a9d8f&countColor=%23263759" alt="Profile Visitor Badge"/>
 </p>
 
----
-## ⚙️ Setup & Customization Notes
-To make your profile README work, ensure your repository is public and named after your username (e.g., `yuarzumanyan-coder/yuarzumanyan-coder`) [citation:2].
-
-1.  **Dynamic Stats:** The stats cards are powered by [github-readme-stats][citation:5]. You can customize colors and themes by modifying the URL parameters in the `<img>` tags.
-2.  **Animated Snake:** The snake game is generated from your contribution graph using a GitHub Action. To activate it:
-    *   Create a file in your repo at `.github/workflows/snake.yml`.
-    *   Paste the following YAML code into it. This will update the snake every 12 hours [citation:4][citation:9].
-    ```yaml
-    name: Generate Snake Animation
-    on:
-      schedule:
-        - cron: "0 */12 * * *" # Runs every 12 hours
-      workflow_dispatch:
-    jobs:
-      build:
-        runs-on: ubuntu-latest
-        steps:
-          - uses: Platane/snk@v3
-            with:
-              github_user_name: yuarzumanyan-coder
-              outputs: |
-                dist/github-contribution-grid-snake.svg
-                dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          - uses: crazy-max/ghaction-github-pages@v3.1.0
-            with:
-              target_branch: output
-              build_dir: dist
-            env:
-              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    ```
 3.  **Visitor Badge:** The visitor counter at the bottom updates automatically using the [visitorbadge.io](https://visitorbadge.io) service.
 4.  **Replace Placeholders:** Don't forget to replace the placeholder links (`[Your ... Here]`) with your actual LinkedIn profile, email, and Tableau Public URL.
 
