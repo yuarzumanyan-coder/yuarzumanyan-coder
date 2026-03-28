@@ -131,8 +131,9 @@ I'm a **detail-driven Data Analyst** who finds the hidden story in every dataset
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuri-dataanalyst&show_icons=true&theme=tokyonight&border_color=2ec4b6&icon_color=2ec4b6&title_color=2ec4b6&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-dataanalyst&layout=compact&theme=tokyonight&border_color=2ec4b6&title_color=2ec4b6&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuri-dataanalyst&show_icons=true&theme=tokyonight&border_color=2ec4b6&icon_color=2ec4b6&title_color=2ec4b6&hide_border=false&count_private=true&cache_seconds=1800" />
+&nbsp;
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuri-dataanalyst&theme=tokyonight" />
 
 </div>
 
