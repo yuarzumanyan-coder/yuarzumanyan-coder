@@ -131,14 +131,14 @@ I'm a **detail-driven Data Analyst** who finds the hidden story in every dataset
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuarzumanyan-coder&show_icons=true&theme=dark&bg_color=0d1117&border_color=2ec4b6&icon_color=2ec4b6&title_color=2ec4b6&text_color=c9d1d9&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=dark&bg_color=0d1117&border_color=2ec4b6&title_color=2ec4b6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuri-dataanalyst&show_icons=true&theme=dark&bg_color=0d1117&border_color=2ec4b6&icon_color=2ec4b6&title_color=2ec4b6&text_color=c9d1d9&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-dataanalyst&layout=compact&theme=dark&bg_color=0d1117&border_color=2ec4b6&title_color=2ec4b6&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yuarzumanyan-coder&theme=dark&background=0d1117&border=2ec4b6&ring=2ec4b6&fire=ff6b6b&currStreakLabel=2ec4b6" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yuri-dataanalyst&theme=dark&background=0d1117&border=2ec4b6&ring=2ec4b6&fire=ff6b6b&currStreakLabel=2ec4b6" />
 
 </div>
 
@@ -147,7 +147,7 @@ I'm a **detail-driven Data Analyst** who finds the hidden story in every dataset
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yuarzumanyan-coder/yuarzumanyan-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yuri-dataanalyst/yuri-dataanalyst/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -165,7 +165,7 @@ I'm a **detail-driven Data Analyst** who finds the hidden story in every dataset
 
 <div align="center">
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuarzumanyan-coder&label=Profile%20Views&labelColor=%230d1117&countColor=%232ec4b6&style=flat-square" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuri-dataanalyst&label=Profile%20Views&labelColor=%230d1117&countColor=%232ec4b6&style=flat-square" />
 
 </div>
 
