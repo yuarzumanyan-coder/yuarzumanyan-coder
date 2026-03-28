@@ -1,111 +1,180 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Hi there! I'm a Data Analyst
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a9d8f,100:264653&height=150&section=header&animation=fadeIn&fontColor=ffffff&fontSize=60&text=Turning%20Data%20Into%20Value&desc=SQL%20|%20Python%20|%20BI%20Tools&descAlignY=75" alt="Header" />
-</p>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yuri%20Arzumanyan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%94%20Turning%20Noise%20Into%20Narrative&descSize=18&descAlignY=62&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2A9D8F&center=true&vCenter=true&width=650&lines=Passionate+about+storytelling+with+data;Building+intuitive+and+impactful+dashboards;Enabling+data-driven+decision-making" alt="Typing Animation" />
-</p>
+</div>
 
----
+<div align="center">
 
-## 📖 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1200&color=2EC4B6&center=true&vCenter=true&width=620&lines=Transforming+raw+data+into+business+decisions.;Building+dashboards+that+actually+get+used.;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Always+curious.+Always+analyzing.)](https://git.io/typing-svg)
 
-> "Without data, you're just another person with an opinion." – W. Edwards Deming
-
-I'm a detail-oriented **Data Analyst** who thrives on finding the story hidden within complex datasets. My expertise lies in the full analytics pipeline: from querying and cleaning raw data to building clear visualizations that drive strategic business decisions.
-
-*   🔍 **My Focus:** Exploratory Data Analysis (EDA), Data Cleaning & Wrangling, Dashboard Development, and Business Intelligence.
-*   🎯 **My Goal:** To bridge the gap between technical data and actionable business insights, making information accessible and understandable for all stakeholders.
-*   🌱 **Currently Learning:** Advanced dashboard interactivity and machine learning applications for predictive analytics.
-*   ⚡ **Fun Fact:** I enjoy solving data puzzles as much as I enjoy solving real-world jigsaw puzzles.
+</div>
 
 ---
-
-## 🛠️ My Data Analyst Toolkit
-
-### **📊 Programming & Query Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### **🧹 Data Wrangling & Analysis**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
-### **📈 Visualization & Business Intelligence**
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-</p>
-
-### **☁️ Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</p>
-
----
-
-## 📂 Featured Projects & Analysis
-
-Here are some highlights of my work. For a complete list, please visit my [repositories](https://github.com/yuarzumanyan-coder?tab=repositories).
-
-| Project | Description | Tools Used |
-| :--- | :--- | :--- |
-| **[📊 Sales Performance Dashboard]** | An interactive Tableau dashboard tracking KPIs across regions, products, and sales teams, leading to a 15% improvement in identifying underperforming segments. | `Tableau` `SQL` `Excel` |
-| **[🧹 Customer Data Cleaning Pipeline]** | A robust Python ETL script that automated the cleaning and validation of a 100k+ record customer dataset, reducing manual review time by 80%. | `Python` `Pandas` `Regex` |
-| **[📈 E-commerce Cohort Analysis]** | Analysis of user retention and lifetime value (LTV) for an online store, providing insights that informed the marketing team's customer retention strategy. | `Python` `Matplotlib` `Seaborn` `Jupyter` |
-| **[🔍 Predictive Maintenance Analysis]** | Exploratory analysis of IoT sensor data to identify early failure patterns in manufacturing equipment. | `Python` `Scikit-learn` `Plotly` |
-
----
-
-### 🐍 My Contribution Graph... As a Game!
-<!-- This snake eats my contributions! Make sure to enable the GitHub Action (see Setup below). -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuarzumanyan-coder/yuarzumanyan-coder/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contributions" />
-</p>
-
----
-
-## 📬 Let's Connect & Collaborate!
-I'm always open to discussing data, new technologies, and potential opportunities.
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/yuri-arzumanyan/]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:[yuarzumanyan@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
-  </a>
-  <a href="https://github.com/yuri-dataanalyst">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 <br>
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuarzumanyan-coder&label=Profile%20Views&labelColor=%232a9d8f&countColor=%23263759" alt="Profile Visitor Badge"/>
-</p>
 
-<h3 align="center">
-  Thanks for visiting! Feel free to explore my repositories. 🚀
-</h3>
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a9d8f,100:264653&height=80&section=footer&animation=fadeIn&fontColor=ffffff" />
-</p>
+## 👤 About Me
+
+> *"Without data, you're just another person with an opinion."*
+> — W. Edwards Deming
+
+I'm a **detail-driven Data Analyst** who finds the hidden story in every dataset. I work across the full analytics pipeline — from raw SQL queries to polished BI dashboards — with one goal: **making data accessible and actionable for everyone**.
+
+- 🔍 **Focus:** EDA · Data Wrangling · Dashboard Design · Business Intelligence
+- 🎯 **Mission:** Bridge the gap between raw numbers and strategic decisions
+- 🌱 **Currently exploring:** Predictive analytics & ML integration
+- ⚡ **Fun fact:** I love data puzzles as much as real-world jigsaw puzzles
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Toolkit
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" style="margin-top:12px"/><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" style="margin-top:12px"/><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="48" style="margin-top:12px"/><br/>
+      <sub><b>Tableau</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48" style="margin-top:12px"/><br/>
+      <sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="48" style="margin-top:12px"/><br/>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" height="48" style="margin-top:12px"/><br/>
+      <sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="48" style="margin-top:12px"/><br/>
+      <sub><b>Excel</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>🗂 Project</th>
+      <th>📋 Description</th>
+      <th>⚙️ Stack</th>
+      <th>📌 Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>📊 Sales Performance Dashboard</b></td>
+      <td>Interactive Tableau dashboard tracking KPIs across regions, products & sales teams</td>
+      <td><code>Tableau</code> <code>SQL</code> <code>Excel</code></td>
+      <td>↑ 15% faster identification of underperforming segments</td>
+    </tr>
+    <tr>
+      <td><b>🧹 Customer Data Cleaning Pipeline</b></td>
+      <td>Python ETL script automating cleaning & validation of a 100k+ row customer dataset</td>
+      <td><code>Python</code> <code>Pandas</code> <code>Regex</code></td>
+      <td>↓ 80% manual review time</td>
+    </tr>
+    <tr>
+      <td><b>📈 E-commerce Cohort Analysis</b></td>
+      <td>User retention & LTV analysis for an online store, informing retention strategy</td>
+      <td><code>Python</code> <code>Matplotlib</code> <code>Seaborn</code></td>
+      <td>Directly influenced marketing strategy</td>
+    </tr>
+    <tr>
+      <td><b>🔍 Predictive Maintenance Analysis</b></td>
+      <td>EDA on IoT sensor data to detect early failure patterns in manufacturing</td>
+      <td><code>Python</code> <code>Scikit-learn</code> <code>Plotly</code></td>
+      <td>Early anomaly detection framework</td>
+    </tr>
+  </tbody>
+</table>
+
+> 📁 See all projects → [github.com/yuarzumanyan-coder?tab=repositories](https://github.com/yuarzumanyan-coder?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuarzumanyan-coder&show_icons=true&theme=dark&bg_color=0d1117&border_color=2ec4b6&icon_color=2ec4b6&title_color=2ec4b6&text_color=c9d1d9&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=dark&bg_color=0d1117&border_color=2ec4b6&title_color=2ec4b6&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yuarzumanyan-coder&theme=dark&background=0d1117&border=2ec4b6&ring=2ec4b6&fire=ff6b6b&currStreakLabel=2ec4b6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yuarzumanyan-coder/yuarzumanyan-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-arzumanyan/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuarzumanyan@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuarzumanyan-coder)
+
+</div>
+
+<div align="center">
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuarzumanyan-coder&label=Profile%20Views&labelColor=%230d1117&countColor=%232ec4b6&style=flat-square" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Thanks for stopping by — feel free to explore, star, or reach out!* 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&animation=fadeIn" />
